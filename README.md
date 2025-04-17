@@ -9,7 +9,7 @@
 - **Render Time Summary (with global illumination):**
  >Note: this runs **VERY SLOW**, cuz theres **NO GPU acceleration**.
 
-| Scripts                                       |Resolution|Samples|depth|Time (approx.)|
+| Scripts                                       |Resolution|Samples|Depth|Time (approx.)|
 |-----------------------------------------------|----------|-------|-----|--------------|
 | `./HW5_global_illumination/simpleRT_plugin.py`| $480^2$  | 64    |  4  |2:15:00 😭   |
 | `./HW5_global_illumination/simpleRT_plugin.py`| $480^2$  | 128   |  4  |3:20:00 ☠️   |
